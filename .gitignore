@@ -1,2 +1,2 @@
-# Ignore node_modules directory
-node_modules/git add .gitignore
+node_modules/
+.vscode/
